@@ -2,8 +2,8 @@
  * YZM2031 - Lab Assignment 1
  * Problem 1: Dynamic Array Implementation
  *
- * Student Name: [YOUR NAME HERE]
- * Student ID: [YOUR ID HERE]
+ * Student Name: Ahmet Doruk Güngör
+ * Student ID: 24018034
  *
  * Instructions: Implement the TODO sections below
  */
