@@ -2,7 +2,7 @@
  * YZM2031 - Lab Assignment 1
  * Problem 3: Stack-Based Expression Evaluator
  *
- * Student Name: Ahmet Doruk Güngör
+ * Student Name: Ahmet Doruk GÃ¼ngÃ¶r
  * Student ID: 24018034
  *
  * Instructions: Implement the TODO sections below
